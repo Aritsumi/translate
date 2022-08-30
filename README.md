@@ -1,0 +1,2 @@
+# Translate_Dokumentation
+Переводы документаций репозиториев
